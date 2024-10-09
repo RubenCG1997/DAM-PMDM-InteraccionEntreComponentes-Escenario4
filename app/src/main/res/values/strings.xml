@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Escenario4</string>
+    <string name="rb1_1">Playa</string>
+    <string name="rb1_2">Sierra</string>
+    <string name="rb1_3">Coche</string>
+    <string name="rb2_1">Comida</string>
+    <string name="rb2_2">Bebida</string>
+    <string name="rb2_3">Consolas</string>
+    <string name="rb3_1_1">A</string>
+    <string name="rb3_1_2">B</string>
+    <string name="rb3_1_3">C</string>
+    <string name="rb3_2_1">D</string>
+    <string name="rb3_2_2">E</string>
+    <string name="rb3_2_3">F</string>
+    <string name="rb3_3_1">G</string>
+    <string name="rb3_3_2">H</string>
+    <string name="rb3_3_3">I</string>
+    <string name="rb3_4_1">J</string>
+    <string name="rb3_4_2">K</string>
+    <string name="rb3_4_3">L</string>
+    <string name="rb3_5_1">M</string>
+    <string name="rb3_5_2">N</string>
+    <string name="rb3_5_3">Ñ</string>
+    <string name="rb3_6_1">O</string>
+    <string name="rb3_6_2">P</string>
+    <string name="rb3_6_3">Q</string>
+
+</resources>
